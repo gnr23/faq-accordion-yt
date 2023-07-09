@@ -12,7 +12,7 @@ This is a solution to the [FAQ accordion card](https://www.frontendmentor.io/cha
 
 ## Overview
 
-### The challenge
+### The challeng e
 
 Users should be able to:
 
