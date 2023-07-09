@@ -58,3 +58,23 @@ e.g.
 max-width: 900px;
 margin:auto;
     }
+
+/*Also i learned this way of adding abit of responsiveness instead of togglin the images in css you can just do it in html like that8/
+
+    function App() {
+  return (
+    <div className="container">
+<article>
+<picture>
+<source media="(min-width:768px)" srcSet={desktop} /> 
+<img src={mobile} alt=""/>
+</picture>
+
+"when you map over an array you create a list and every list needs to have a key"       
+
+<SingleQuestion key={quest.id}/>
+
+OR {quests.map((quest, index) => (
+      <SingleQuestion key={index}/> 
+
+it is preferred to use index when you know that the data is not gonna change
