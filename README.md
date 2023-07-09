@@ -22,10 +22,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/tablet.png)
-![](./images/mobile.png)
-![](./images/bigger scrn.png)
-![](./images/functionality.png)
+![](./src/images/tablet.png)
+![](./src/images/mobile.png)
+![](./src/images/bigger%20scrn.png)
+![](./src/images/functionality.png)
 
 
 
