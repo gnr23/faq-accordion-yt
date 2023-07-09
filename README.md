@@ -31,13 +31,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [NETLIFY URL](https://3-column-preview-card-component-gnr23.netlify.app/)
-- Live Site URL: [GITHUB URL](https://github.com/gnr23/frontend-exercise-05-Column-preview-component)
+- Solution URL: [NETLIFY URL](https://faq-accordion-card-gnr23.netlify.app)
+- Live Site URL: [GITHUB URL](https://github.com/gnr23/frontend-exercise-06-faq-accordion-card)
 
 
 ### Built with
 
-HTML, CSS
+HTML, CSS, JS, React
 VS code
 
 

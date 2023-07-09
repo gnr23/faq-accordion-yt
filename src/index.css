@@ -111,13 +111,13 @@ body {
     width: 992px;
   }
 
-.container > article:first-child {
-  flex: 1;
-  margin-right: 3rem;
+  .container>article:first-child {
+    flex: 1;
+    margin-right: 3rem;
 
-}
+  }
 
-.container > article:nth-child(2) {
-  flex: 1;
-}
+  .container>article:nth-child(2) {
+    flex: 1;
+  }
 }
